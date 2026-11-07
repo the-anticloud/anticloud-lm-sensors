@@ -5,16 +5,8 @@
   "git": {
    "url": "https://github.com/lm-sensors/lm-sensors",
    "head": "cb9a02a34035bfac3029cc1f4d981d099586a2cf",
-   "sha_verified_from": "revendor archive 2026-10-17",
-   "previous_substitute": "https://github.com/mdlayher/lmsensors",
-   "paths_skipped_windows_incompatible": 88,
-   "paths_skipped_sample": [
-    "prog/sensors/test/data/laptop-err/devices/LNXSYSTM:00/LNXSYBUS:00/PNP0A08:00/device:1e/ACPI0003:00/power_supply/ACAD/hwmon2/device",
-    "prog/sensors/test/data/laptop-err/devices/LNXSYSTM:00/LNXSYBUS:00/PNP0A08:00/device:1e/ACPI0003:00/power_supply/ACAD/hwmon2/name",
-    "prog/sensors/test/data/laptop-err/devices/LNXSYSTM:00/LNXSYBUS:00/PNP0A08:00/device:1e/ACPI0003:00/power_supply/ACAD/hwmon2/power/async",
-    "prog/sensors/test/data/laptop-err/devices/LNXSYSTM:00/LNXSYBUS:00/PNP0A08:00/device:1e/ACPI0003:00/power_supply/ACAD/hwmon2/power/control",
-    "prog/sensors/test/data/laptop-err/devices/LNXSYSTM:00/LNXSYBUS:00/PNP0A08:00/device:1e/ACPI0003:00/power_supply/ACAD/hwmon2/power/runtime_active_kids"
-   ]
+   "sha_verified_from": "revendor final 2026-11-07 rev-parse verified",
+   "previous_substitute": "https://github.com/lm-sensors/lm-sensors"
   }
  },
  "metrics": {

@@ -1,12 +1,12 @@
 # LM_SENSORS
 
-> The lm-sensors package, version 3, provides user-space support for the hardware monitoring drivers in Linux 2.6.5 and later. For older kernel versions, you have to use lm-sensors version 2.
+> This directory contains the full 30-folder standard documentation set for `LM_SENSORS`:
 
 **Category:** LAPTOPS · **Ecosystem:** unknown · **Vendored upstream:** https://github.com/lm-sensors/lm-sensors · **Pinned commit:** `cb9a02a34035bfac3029cc1f4d981d099586a2cf` · **Vendor:** Anticloud FZ LLE
 
 ## What This Project Is
 
-The lm-sensors package, version 3, provides user-space support for the hardware monitoring drivers in Linux 2.6.5 and later. For older kernel versions, you have to use lm-sensors version 2.
+This directory contains the full 30-folder standard documentation set for `LM_SENSORS`:
 
 This is the upstream project, vendored at the pinned commit above and packaged offline-first. The 12 improvements Anticloud adds live in `anticloud/` and are described under *Anticloud Overlay* below. Every fact in this file traces to a file in this directory.
 
@@ -60,7 +60,7 @@ The upstream licence is preserved in `LICENSE` and `THIRD_PARTY_LICENSES/`. The 
 SHA3-256 of `BENCH.json`:
 
 ```
-7b84b5593350d1245eba067b2c87f9c3473b83d847dc09bf5958ddeee5acae5d
+724de881042f05dcaad83f7163ed0cc770d7b5fe72bb1a8c9cbf31374c43c2c4
 ```
 
 Recompute the hash above and compare — any drift means the package has been tampered with and the seal is invalid. This is a self-assessment; no external audit has been performed and a SOC 2 / NIST independent audit is committed post-funding.
